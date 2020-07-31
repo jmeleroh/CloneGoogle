@@ -15,6 +15,10 @@ header{
 }
 
 .my-account a {
+    margin-right: 10px;
+}
+
+.my-account .start-session {
     margin-right: 25px;
     background-color: blue;
     color: white;
@@ -28,5 +32,8 @@ ul li {
 
 a{
     text-decoration: none;
+}
+a:hover{
+    text-decoration:underline;
 }
 
